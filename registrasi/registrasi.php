@@ -1,7 +1,7 @@
 <?php
 
 include_once "../koneksi.php";
-
+ 
 $nama=$_POST['nama'];
 $username=$_POST['username'];
 $ttl=$_POST['ttl'];
